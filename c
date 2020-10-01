@@ -1,5 +1,5 @@
 #include<stdio.h>
 voids main()
 {
-int n=3;
+int n=67;
 }
